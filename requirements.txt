@@ -1,0 +1,8 @@
+allure-pytest==2.9.45
+curlify==2.2.1
+pycodestyle==2.8.0
+pylint==2.12.2
+pytest==6.2.5
+pytest-voluptuous==1.2.0
+requests==2.26.0
+voluptuous==0.12.2
